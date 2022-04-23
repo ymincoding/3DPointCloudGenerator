@@ -18,6 +18,6 @@ Dependencies (required software)
 Usage
 ---
 #### Example of usage:
-```ss22ProjectTest -i imageDir/ -d depthMapDir/ -o outputDir/```
-
-
+```
+ss22ProjectTest -i imageDir/ -d depthMapDir/ -o outputDir/
+```
